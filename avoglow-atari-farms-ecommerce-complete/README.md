@@ -1,6 +1,6 @@
-# ATARI FARMS Sexy Farming Website
+# ATARI FARMS climate-smart Farming Website
 
-This is a frontend e-commerce prototype for **ATARI FARMS Sexy farming** and its avocado-based beauty and wellness brand **Avoglow**.
+This is a frontend e-commerce prototype for **ATARI FARMS climate-smart farming** and its avocado-based beauty and wellness brand **Avoglow**.
 
 The website presents Atari Farms as a climate-smart agribusiness from Uganda, with Avoglow products built around avocado oil, avocado by-products, and organic botanical ingredients.
 
@@ -44,13 +44,13 @@ Upload these items to the root of your GitHub Pages repository:
 For your repository:
 
 ```text
-onyenyonachukwuiyi-bit/onyenyonachukwu.github.io
+onyenyonachukwuiyi-bit/samuel.github.io
 ```
 
 After upload, the site should be available at:
 
 ```text
-https://onyenyonachukwuiyi-bit.github.io/onyenyonachukwu.github.io/
+https://onyenyonachukwuiyi-bit.github.io/samuel.github.io/
 ```
 
 If the repository is configured as a user GitHub Pages site, it may also be available at:
